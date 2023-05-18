@@ -17,3 +17,9 @@ bash data/download_metadata.sh /path/to/save/data
 ```bash
 bash data/download_images.sh ./data/images_datasets_kaggle.txt /path/to/save/data/images
 ```
+
+
+# Run training 
+```bash
+python exp.py
+```
